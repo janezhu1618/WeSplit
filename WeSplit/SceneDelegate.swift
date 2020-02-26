@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  WeSplit
-//
-//  Created by Jane Zhu on 2/25/20.
-//  Copyright © 2020 JaneZhu. All rights reserved.
-//
-
 import UIKit
 import SwiftUI
 
